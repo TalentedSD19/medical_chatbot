@@ -10,3 +10,5 @@ PyPDF
 langchain-chroma 
 langchain-openai
 langchain-pinecone
+python-dotenv
+-e .
