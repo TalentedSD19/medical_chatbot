@@ -14,3 +14,34 @@ conda activate mchatbot
 ```bash
 pip install -r requirements.txt
 ```
+
+
+
+## From the following link:
+https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
+```
+
+```bash
+# run the following command
+python store_index.py
+```
+
+```bash
+# Finally run the following command
+python app.py
+```
+
+Now,
+```bash
+open up localhost:
+```
+
+
+### Techstack Used:
+
+- Python
+- LangChain
+- Flask
+- Meta Llama2
+- Pinecone
+
